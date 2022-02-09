@@ -1,2 +1,4 @@
 # Artifical-Intelligence
-By this, You can get attendance through pictures or through the live camera. After that, You can get a mail.
+<p align="center">
+  <img src="image1" width="350" title="hover text">
+</p>
